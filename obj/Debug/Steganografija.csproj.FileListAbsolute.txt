@@ -1,0 +1,188 @@
+D:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Steganografija.csprojResolveAssemblyReference.cache
+D:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Dekonverzija.resources
+D:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+D:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Konvertovanje.resources
+D:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Tekstkompresija.resources
+D:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Steganografija.csproj.GenerateResource.Cache
+D:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\FireSharp.dll
+D:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\FireSharp.Serialization.JsonNet.dll
+D:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\FireSharp.Serialization.ServiceStack.dll
+D:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Microsoft.Threading.Tasks.dll
+D:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+D:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Newtonsoft.Json.dll
+D:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\RestSharp.dll
+D:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\ServiceStack.Text.dll
+D:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\System.Net.Http.Extensions.dll
+D:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\System.Net.Http.Primitives.dll
+D:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Microsoft.Threading.Tasks.xml
+D:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+D:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Newtonsoft.Json.xml
+D:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\RestSharp.xml
+D:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\ServiceStack.Text.xml
+D:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\System.Net.Http.Extensions.xml
+D:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\System.Net.Http.Primitives.xml
+D:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Steganografija.csproj.App.config
+D:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\MySql.Data.dll
+D:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Google.Protobuf.dll
+D:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\MySql.Data.xml
+D:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.manifest
+D:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.application
+D:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe.manifest
+D:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.application
+D:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Rezultat.resources
+D:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.DekonverzijaIzSlike.resources
+D:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.DekonverzijaTeksta.resources
+D:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Skrivanje4Slike.resources
+D:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Dekonverzija4Slike.resources
+C:\Users\radoi\OneDrive\Radna površina\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\radoi\OneDrive\Radna površina\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\radoi\OneDrive\Radna površina\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\radoi\OneDrive\Radna površina\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\obj\Debug\Steganografija.csproj.App.config
+C:\Users\radoi\OneDrive\Radna površina\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\obj\Debug\Steganografija.csprojResolveAssemblyReference.cache
+C:\Users\radoi\OneDrive\Radna površina\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Dekonverzija.resources
+C:\Users\radoi\OneDrive\Radna površina\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Dekonverzija4Slike.resources
+C:\Users\radoi\OneDrive\Radna površina\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.DekonverzijaIzSlike.resources
+C:\Users\radoi\OneDrive\Radna površina\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.DekonverzijaTeksta.resources
+C:\Users\radoi\OneDrive\Radna površina\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\radoi\OneDrive\Radna površina\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Konvertovanje.resources
+C:\Users\radoi\OneDrive\Radna površina\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\radoi\OneDrive\Radna površina\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Rezultat.resources
+C:\Users\radoi\OneDrive\Radna površina\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Skrivanje4Slike.resources
+C:\Users\radoi\OneDrive\Radna površina\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Tekstkompresija.resources
+C:\Users\radoi\OneDrive\Radna površina\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\obj\Debug\Steganografija.csproj.GenerateResource.Cache
+C:\Users\radoi\OneDrive\Radna površina\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.manifest
+C:\Users\radoi\OneDrive\Radna površina\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.application
+C:\Users\radoi\OneDrive\Radna površina\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\radoi\OneDrive\Radna površina\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\radoi\OneDrive\Radna površina\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\bin\Debug\FireSharp.dll
+C:\Users\radoi\OneDrive\Radna površina\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\bin\Debug\FireSharp.Serialization.JsonNet.dll
+C:\Users\radoi\OneDrive\Radna površina\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\bin\Debug\FireSharp.Serialization.ServiceStack.dll
+C:\Users\radoi\OneDrive\Radna površina\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\radoi\OneDrive\Radna površina\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\radoi\OneDrive\Radna površina\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\radoi\OneDrive\Radna površina\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\bin\Debug\MySql.Data.dll
+C:\Users\radoi\OneDrive\Radna površina\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\radoi\OneDrive\Radna površina\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\bin\Debug\RestSharp.dll
+C:\Users\radoi\OneDrive\Radna površina\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\bin\Debug\ServiceStack.Text.dll
+C:\Users\radoi\OneDrive\Radna površina\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\radoi\OneDrive\Radna površina\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\radoi\OneDrive\Radna površina\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\bin\Debug\Google.Protobuf.dll
+C:\Users\radoi\OneDrive\Radna površina\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\radoi\OneDrive\Radna površina\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\radoi\OneDrive\Radna površina\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\radoi\OneDrive\Radna površina\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\bin\Debug\MySql.Data.xml
+C:\Users\radoi\OneDrive\Radna površina\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\radoi\OneDrive\Radna površina\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\bin\Debug\RestSharp.xml
+C:\Users\radoi\OneDrive\Radna površina\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\bin\Debug\ServiceStack.Text.xml
+C:\Users\radoi\OneDrive\Radna površina\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\radoi\OneDrive\Radna površina\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\radoi\OneDrive\Radna površina\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe.manifest
+C:\Users\radoi\OneDrive\Radna površina\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.application
+C:\Users\radoi\OneDrive\Radna površina\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UserControls.TextInSound.resources
+C:\Users\radoi\OneDrive\Radna površina\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UserControls.TextInSoundDeconversion.resources
+C:\Users\radoi\OneDrive\Radna površina\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UserControls.PictureInSound.resources
+C:\Users\radoi\OneDrive\Radna površina\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UserControls.SoundToImage.resources
+C:\Users\radoi\OneDrive\Radna površina\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UserControls.SoundFromPicture.resources
+C:\Users\radoi\OneDrive\Radna površina\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UserControls.SoundInPicture.resources
+C:\Users\radoi\OneDrive\Radna površina\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UserControls.MultiSoundDeconversion.resources
+C:\Users\radoi\OneDrive\Radna površina\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UserControls.MultiSoundInsert.resources
+D:\Project\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\Project\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.manifest
+D:\Project\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.application
+D:\Project\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\Project\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\Project\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\bin\Debug\FireSharp.dll
+D:\Project\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\bin\Debug\FireSharp.Serialization.JsonNet.dll
+D:\Project\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\bin\Debug\FireSharp.Serialization.ServiceStack.dll
+D:\Project\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\bin\Debug\Microsoft.Threading.Tasks.dll
+D:\Project\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\Project\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+D:\Project\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\bin\Debug\Newtonsoft.Json.dll
+D:\Project\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\bin\Debug\RestSharp.dll
+D:\Project\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\bin\Debug\ServiceStack.Text.dll
+D:\Project\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\bin\Debug\System.Net.Http.Extensions.dll
+D:\Project\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\bin\Debug\System.Net.Http.Primitives.dll
+D:\Project\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\bin\Debug\Google.Protobuf.dll
+D:\Project\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\bin\Debug\Microsoft.Threading.Tasks.xml
+D:\Project\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+D:\Project\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\Project\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\bin\Debug\MySql.Data.xml
+D:\Project\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\bin\Debug\Newtonsoft.Json.xml
+D:\Project\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\bin\Debug\RestSharp.xml
+D:\Project\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\bin\Debug\ServiceStack.Text.xml
+D:\Project\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\bin\Debug\System.Net.Http.Extensions.xml
+D:\Project\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\bin\Debug\System.Net.Http.Primitives.xml
+D:\Project\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\obj\Debug\Steganografija.csproj.App.config
+D:\Project\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\obj\Debug\Steganografija.csprojAssemblyReference.cache
+D:\Project\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Dekonverzija.resources
+D:\Project\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+D:\Project\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Konvertovanje.resources
+D:\Project\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\Project\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UserControls.MultiSoundInsert.resources
+D:\Project\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UserControls.PictureInSound.resources
+D:\Project\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UserControls.SoundInPicture.resources
+D:\Project\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Tekstkompresija.resources
+D:\Project\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UserControls.TextInSound.resources
+D:\Project\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\obj\Debug\Steganografija.csproj.GenerateResource.cache
+D:\Project\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe.manifest
+D:\Project\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.application
+D:\Project\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\obj\Debug\Steganografija.csproj.CopyComplete
+D:\Project\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\Project\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\Project\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UserControls.SoundDeconversion.resources
+D:\Project\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\obj\Debug\Steganografija.csproj.CoreCompileInputs.cache
+D:\Project\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UserControls.ResolutionCutter.resources
+D:\New folder\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\New folder\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.manifest
+D:\New folder\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.application
+D:\New folder\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\New folder\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\New folder\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\bin\Debug\FireSharp.dll
+D:\New folder\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\bin\Debug\FireSharp.Serialization.JsonNet.dll
+D:\New folder\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\bin\Debug\FireSharp.Serialization.ServiceStack.dll
+D:\New folder\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\bin\Debug\Microsoft.Threading.Tasks.dll
+D:\New folder\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\New folder\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+D:\New folder\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\bin\Debug\Newtonsoft.Json.dll
+D:\New folder\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\bin\Debug\RestSharp.dll
+D:\New folder\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\bin\Debug\ServiceStack.Text.dll
+D:\New folder\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\bin\Debug\System.Net.Http.Extensions.dll
+D:\New folder\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\bin\Debug\System.Net.Http.Primitives.dll
+D:\New folder\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\bin\Debug\Google.Protobuf.dll
+D:\New folder\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\bin\Debug\Microsoft.Threading.Tasks.xml
+D:\New folder\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+D:\New folder\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\New folder\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\bin\Debug\MySql.Data.xml
+D:\New folder\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\bin\Debug\Newtonsoft.Json.xml
+D:\New folder\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\bin\Debug\RestSharp.xml
+D:\New folder\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\bin\Debug\ServiceStack.Text.xml
+D:\New folder\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\bin\Debug\System.Net.Http.Extensions.xml
+D:\New folder\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\bin\Debug\System.Net.Http.Primitives.xml
+D:\New folder\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\obj\Debug\Steganografija.csproj.App.config
+D:\New folder\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\obj\Debug\Steganografija.csprojAssemblyReference.cache
+D:\New folder\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Dekonverzija.resources
+D:\New folder\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+D:\New folder\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Konvertovanje.resources
+D:\New folder\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\New folder\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UserControls.ResolutionCutter.resources
+D:\New folder\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UserControls.MultiSoundInsert.resources
+D:\New folder\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UserControls.PictureInSound.resources
+D:\New folder\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UserControls.SoundInPicture.resources
+D:\New folder\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Tekstkompresija.resources
+D:\New folder\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UserControls.TextInSound.resources
+D:\New folder\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UserControls.SoundDeconversion.resources
+D:\New folder\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\obj\Debug\Steganografija.csproj.GenerateResource.cache
+D:\New folder\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\obj\Debug\Steganografija.csproj.CoreCompileInputs.cache
+D:\New folder\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe.manifest
+D:\New folder\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.application
+D:\New folder\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\obj\Debug\Steganografija.csproj.CopyComplete
+D:\New folder\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\New folder\new\Izvorni kod\Izvorni kod\PATECO\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
